@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wish
+- 👋 Hi, I’m Wish, thank you for visiting my profile!
+- 🌱 I’m currently studying Computer Science at Grambling State University
 - 👀 I’m interested in Artifical Intelligence and Data Science
-- 🌱 I’m currently learning Computer Science at Grambling State University
-- 💞️ I’m looking to collaborate on impactful projects in the field of AI and Data Science.
+- 💞️ If you are you are working on projects in the field of AI and Data Science, let's connect : )
 
 
 <!---
