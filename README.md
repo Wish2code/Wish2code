@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wish
 - 👀 I’m interested in Artifical Intelligence and Data Science
 - 🌱 I’m currently learning Computer Science at Grambling State University
-- 💞️ I’m looking to collaborate on impactful projects in the field of AI.
+- 💞️ I’m looking to collaborate on impactful projects in the field of AI and Data Science.
 
 
 <!---
